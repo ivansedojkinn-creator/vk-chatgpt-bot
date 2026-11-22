@@ -1,0 +1,2 @@
+# vk-chatgpt-bot
+Opisanie
