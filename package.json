@@ -1,0 +1,15 @@
+
+{
+  "name": "vk-chatgpt-bot",
+  "version": "1.0.0",
+  "description": "ChatGPT bot for VK community",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "openai": "^4.0.0",
+    "vk-io": "^4.9.0"
+  }
+}
